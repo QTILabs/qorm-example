@@ -1,0 +1,8 @@
+[package]
+name = "integrate_with_sqlite"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+qorm = { git = "https://github.com/QTILabs/qorm.git" }
+sqlite = "0.36.1"
