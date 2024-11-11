@@ -1,4 +1,4 @@
-mod tests;
+mod testing;
 
 use qorm::{Bind, Builder};
 use sqlx::{Pool, Sqlite};
