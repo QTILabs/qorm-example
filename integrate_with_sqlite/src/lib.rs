@@ -1,3 +1,5 @@
+mod testing;
+
 use qorm::{Bind, Builder};
 use sqlite::{Connection, State, Value};
 
